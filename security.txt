@@ -1,0 +1,4 @@
+Contact: mailto:security@bridgeinteract.io
+Expires: 2027-06-06T11:12:00Z
+Encryption: https://bridge-patient-portal.github.io/security/publickey.asc
+Preferred-Languages: en, es
