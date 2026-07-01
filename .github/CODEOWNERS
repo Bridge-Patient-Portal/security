@@ -1,0 +1,5 @@
+# DevOps owns this repository (post-incident Secure SDLC, 2026-07-01).
+# Note: enforcement (branch protection "Require review from Code Owners") is a
+# pending decision, see the Secure SDLC proposal Annex. Until enabled, this only
+# auto-requests DevOps as reviewer, it does not block merges.
+* @Bridge-Patient-Portal/devops
